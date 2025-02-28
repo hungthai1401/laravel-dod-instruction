@@ -34,3 +34,6 @@
      - `Utilities`: Utility classes for common tasks.
      - `Formatters`: Classes for formatting data for output.
 
+## Additional Requirements:
+- Follow PSR-4 autoloading standards for namespace and folder organization.
+- Ensure all files are placed in the correct directories as per the structure rules.
